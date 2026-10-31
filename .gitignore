@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Local scratch and private working files
+_private/
+_tmp/
+.env
+.env.*
